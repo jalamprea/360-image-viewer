@@ -5,7 +5,7 @@ A standalone panorama WebGL image viewer for desktop and mobile. This uses [regl
 ## Install
 
 ```sh
-npm install 360-image-viewer --save
+npm i 360-image-viewer
 ```
 
 ## Live Demo
